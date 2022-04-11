@@ -1,0 +1,36 @@
+.head{
+    display: flex;
+    justify-content: center;
+    
+}
+.head h1{
+    color: white;
+    font-weight: 600;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title h3{
+  color: rgb(12, 3, 46);
+  font-weight: 700;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.img h3{
+    color: white;
+}
+body{
+    background: #1F1C2C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #928DAB, #1F1C2C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #928DAB, #1F1C2C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar{
+    padding-left: 25%;
+    font-size: 25px;
+    text-decoration: solid;
+      
+}

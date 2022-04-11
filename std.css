@@ -1,0 +1,65 @@
+.row p{
+    color:white;
+    font-weight: 500;
+    font-size: larger;
+}
+body{
+    background: #3C3B3F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.row h1{
+    font-weight: 900;
+    color: black;
+}
+
+.img h3{
+    color: white;
+}
+.row h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    color: white;
+}
+.row p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    color: white;
+}
+.contact{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.head h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+
+}
+.title {
+    display: flex;
+    align-items: center;
+    align-items: center;
+    color: chocolate;
+}
+.head h1{
+    color: black;
+}
+.head h2{
+    color: black;
+}
+.navbar{
+    padding-left: 25%;
+    font-size: 25px;
+    text-decoration: solid;
+      
+}

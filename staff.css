@@ -1,0 +1,43 @@
+.img h3{
+    color: white;
+}
+body{
+    background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.row h5{
+    font-weight: 900;
+}
+.card-header{
+    font-weight: 700;
+    color: darkblue;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.head h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head h1{
+    color: rgb(110, 6, 67);
+}
+.head p{
+    color: white;
+}
+.contact{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.navbar{
+    padding-left: 25%;
+    font-size: 25px;
+    text-decoration: solid;
+      
+}

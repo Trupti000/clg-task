@@ -1,0 +1,21 @@
+.navbar{
+    padding-left: 25%;
+    font-size: 25px;
+    text-decoration: solid;
+      
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.contact{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.titil h3{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
